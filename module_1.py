@@ -12,10 +12,11 @@ print(variable)
 
 variable_1 = "hello"
 variable_2 = "world."
-print(variable_1 + " " + variable_2)
+variable_3 = variable_1 + " " + variable_2
+print(variable_3)
 
 # Lesson 3: Function
-def print_result(val1, val2):
-    print(val1 + " " + val2)
+def print_result(val):
+    print(val)
 
-print_result(variable_1, variable_2)
+print_result(variable_3)
