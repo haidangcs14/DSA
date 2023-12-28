@@ -22,17 +22,3 @@ def print_result(val):
 print_result(variable_3)
 
 
-# from abc import ABC, abstractmethod
-#
-# # abstract class
-# class abstractClassName(ABC):
-#     @abstractmethod
-#     def methodName(self):
-#         pass
-#
-# # tạo class implement từ abstractClassName
-# class normalClass(abstractClassName):
-#     # khai báo thuộc tính, phương thức class ở đây
-#     def methodName(self):
-#         pass
-
